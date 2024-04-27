@@ -10,8 +10,13 @@ The Fake News detection dataset deals with the problem indirectly by using tabul
 The dataset consists of several news articles, each represented by numerical features:
 
 **ID:** A unique identifier for each article.
+
 **Word_Count:** The total number of words in the article.
+
 **Sentence_Length:** The average length of sentences in the article.
+
 **Unique_Words:** The number of unique words in the article.
+
 **Average_Word_Length:** The average length of words in the article.
+
 **Label:** A binary label indicating whether the article is real (1) or fake (0). 
